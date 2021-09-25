@@ -1,2 +1,2 @@
-# Курс по Front-End #### на React 
+## Курс по Front-End на React
 
